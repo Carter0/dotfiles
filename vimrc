@@ -326,5 +326,6 @@ Plug 'neoclide/coc.nvim', {'branch': 'release'}
 Plug 'junegunn/fzf', { 'do': { -> fzf#install() } }
 Plug 'junegunn/fzf.vim'
 Plug 'morhetz/gruvbox' "Color theme
+Plug 'itchyny/lightline.vim'
 " List ends here. Plugins become visible to Vim after this call.
 call plug#end()
